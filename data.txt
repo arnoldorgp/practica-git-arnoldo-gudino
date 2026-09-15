@@ -1,0 +1,2 @@
+Práctica de Git y GitHub.
+Este archivo contiene información inicial de la práctica.
