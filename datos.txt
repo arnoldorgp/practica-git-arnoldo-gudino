@@ -1,2 +1,3 @@
 Práctica de Git y GitHub.
 Este archivo contiene información inicial de la práctica.
+Este archivo fue modificado desde GitHub.
